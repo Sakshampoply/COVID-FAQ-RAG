@@ -1,0 +1,17 @@
+flask==2.3.3
+fastapi==0.110.0
+uvicorn==0.29.0 # 
+python-dotenv==1.0.1
+openai==1.31.0
+sentence-transformers==2.5.1
+transformers==4.41.2
+torch==2.3.0
+faiss-cpu==1.7.4
+langchain==0.2.0
+langgraph==0.0.45
+tiktoken==0.7.0
+requests==2.31.0
+pydantic==2.7.1
+flask-cors==4.0.0
+fastapi
+pyyaml==6.0.1
